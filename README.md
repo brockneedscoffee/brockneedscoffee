@@ -10,6 +10,11 @@ graph LR;
     C --> D[(&lt;img src&#61;&#39;https://media.giphy.com/media/cIxxFKOTCPwX9DUk7L/giphy.gif&#39&#39; width&#61;&#39;desired_width&#39; /&gt;)]
 ```
 
+```mermaid
+  DIR("<img src='https://media.giphy.com/media/cIxxFKOTCPwX9DUk7L/giphy.gif'; />")
+
+```
+
 ## My Public GitHub Stats 📈
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brockneedscoffee&langs_count=5)
