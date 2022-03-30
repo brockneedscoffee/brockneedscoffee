@@ -1,16 +1,14 @@
 # Hi there 👋
 
-## A little bit about my work
-
 My name is Brock and I currently work at Disney leading the infrastructure team for Disney+, Hulu, ESPN+, and Star+
 
-![Alt Text](https://media.giphy.com/media/cIxxFKOTCPwX9DUk7L/giphy.gif)
-
-Before Disney, I was at Microsoft where I lead one of the teams responsible for coauthoring on Word Native to make it go faster
-
-![Alt Text](https://c.tenor.com/dJT6gU0uSkMAAAAi/clippy-paperclip.gif)
-
-Prior to that I worked at WarnerMedia where I worked at CNN, BleacherReport, and build SDKs for personalized ads and data privacy
+```mermaid
+graph LR;
+    A[(&lt;img src&#61;&#39;https://media0.giphy.com/media/WdmFmeCW8ehi7KFwXE/giphy.gif&#39; width&#61;&#39;desired_width&#39; /&gt;)]
+    A --> B[(&lt;img src&#61;&#39;https://www.warnermedia.com/themes/custom/com/images/prism-loader.gif&#39; width&#61;&#39;desired_width&#39; /&gt;)]
+    B --> C[(&lt;img src&#61;&#39;https://c.tenor.com/dJT6gU0uSkMAAAAi/clippy-paperclip.gif&#39; width&#61;&#39;desired_width&#39; /&gt;)]
+    C --> D[(&lt;img src&#61;&#39;https://media.giphy.com/media/cIxxFKOTCPwX9DUk7L/giphy.gif&#39&#39; width&#61;&#39;desired_width&#39; /&gt;)]
+```
 
 ## My Public GitHub Stats 📈
 
