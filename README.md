@@ -11,7 +11,11 @@ graph LR;
 ```
 
 ```mermaid
-  DIR("<img src='https://media.giphy.com/media/cIxxFKOTCPwX9DUk7L/giphy.gif'; />")
+graph LR
+ADIR("<img src='https://media0.giphy.com/media/WdmFmeCW8ehi7KFwXE/giphy.gif'; />") -->
+BDIR("<img src='https://www.warnermedia.com/themes/custom/com/images/prism-loader.gif'; />") -->
+CDIR("<img src='https://c.tenor.com/dJT6gU0uSkMAAAAi/clippy-paperclip.gif'; />") -->
+DDIR("<img src='https://media.giphy.com/media/cIxxFKOTCPwX9DUk7L/giphy.gif'; />")
 
 ```
 
