@@ -2,22 +2,14 @@
 
 My name is Brock and I currently work at Disney leading the infrastructure team for Disney+, Hulu, ESPN+, and Star+
 
-```mermaid
-graph LR;
-    A[(&lt;img src&#61;&#39;https://media0.giphy.com/media/WdmFmeCW8ehi7KFwXE/giphy.gif&#39; width&#61;&#39;desired_width&#39; /&gt;)]
-    A --> B[(&lt;img src&#61;&#39;https://www.warnermedia.com/themes/custom/com/images/prism-loader.gif&#39; width&#61;&#39;desired_width&#39; /&gt;)]
-    B --> C[(&lt;img src&#61;&#39;https://c.tenor.com/dJT6gU0uSkMAAAAi/clippy-paperclip.gif&#39; width&#61;&#39;desired_width&#39; /&gt;)]
-    C --> D[(&lt;img src&#61;&#39;https://media.giphy.com/media/cIxxFKOTCPwX9DUk7L/giphy.gif&#39&#39; width&#61;&#39;desired_width&#39; /&gt;)]
-```
+## Work Experience
 
-```mermaid
-graph LR
-ADIR("<img src='https://media0.giphy.com/media/WdmFmeCW8ehi7KFwXE/giphy.gif'; />") -->
-BDIR("<img src='https://www.warnermedia.com/themes/custom/com/images/prism-loader.gif'; />") -->
-CDIR("<img src='https://c.tenor.com/dJT6gU0uSkMAAAAi/clippy-paperclip.gif'; />") -->
-DDIR("<img src='https://media.giphy.com/media/cIxxFKOTCPwX9DUk7L/giphy.gif'; />")
-
-```
+| Dates        | Where                                                                                                        |
+| ------------ | ------------------------------------------------------------------------------------------------------------ |
+| 2011-2018    | <img src="https://media0.giphy.com/media/WdmFmeCW8ehi7KFwXE/giphy.gif" alt="drawing" width="200"/>           |
+| 2018-2020    | <img src="https://www.warnermedia.com/themes/custom/com/images/prism-loader.gif" alt="drawing" width="200"/> |
+| 2020-2022    | <img src="https://c.tenor.com/dJT6gU0uSkMAAAAi/clippy-paperclip.gif" alt="drawing" width="200"/>             |
+| 2022-Present | <img src="https://media.giphy.com/media/cIxxFKOTCPwX9DUk7L/giphy.gif" alt="drawing" width="200"/>            |
 
 ## My Public GitHub Stats 📈
 
